@@ -1,0 +1,284 @@
+header{
+    background-color: rgba(87, 13, 13, 0.329);
+        height: 110px;
+        width: auto;
+}
+@font-face {
+    font-family: arte;
+    src: url(../fonts/Blantick\ Script.ttf);
+}
+#h1{
+   font-size: 75px;
+    font-family:arte;
+    margin-left: auto;
+    margin-right: auto;
+}
+#head{
+   display: flex;
+   justify-content: center;
+   width: auto;
+}
+#links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+    margin-top:0px;
+ }
+#section{
+    background-color: rgba(177, 167, 155, 0.76);
+    height: 50px;
+    width: auto;
+}
+h2{
+    font-size: 60px;
+    font-family:arte;
+    margin-left: auto;
+    margin-right: auto;
+}
+#art{
+        display: flex;
+        justify-content: center;
+        background-color: rgba(87, 13, 13, 0.329);
+}
+#contenedor{
+    background-color: rgb(211, 159, 111);
+    display: flex;
+    width: 100%;
+    flex-flow:wrap;
+    align-content: center;
+    justify-items: center;
+
+}
+.caja{
+    width: 20%;
+    flex-flow:wrap;
+    display: flex;
+    padding-top: 40px;
+}
+#img{
+    width: 60%;
+    height: 200px;
+}
+@media screen and (min-width: 280px) and (max-width: 490px) {
+   body{
+    background-color: rgba(87, 13, 13, 0.329);
+   }
+    header{
+        background-color: rgba(255, 0, 0, 0.329);
+            width: 625px;
+    }
+    @font-face {
+        font-family: arte;
+        src: url(../fonts/Blantick\ Script.ttf);
+    }
+    #h1{
+       font-size: 70px;
+        font-family:arte;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #head{
+       display: flex;
+       justify-content: center;
+       width: auto;
+    }
+    #links{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 30px;
+        margin-top:0px;
+     }
+    #section{
+        background-color: rgba(177, 167, 155, 0.76);
+        height: auto;
+        width: 625px;
+        margin-top: 0px;
+    }
+    #h2{
+        font-size: 50px;
+        font-family:arte;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #art{
+            display: flex;
+            justify-content: center;
+            background-color: rgba(87, 13, 13, 0.329);
+            width: 625px;
+    }
+    #contenedor{
+        background-color: rgb(211, 159, 111);
+        display: flex;
+        width: 625px;
+        flex-flow:wrap;
+        align-content: center;
+        justify-items: center;
+    
+    }
+    .caja{
+        width: 50%;
+        flex-flow:wrap;
+        display: flex;
+        padding-top: 40px;
+        display: flex;
+        justify-content: center;
+    
+    }
+    #img{
+        width: 60%;
+        height: 150px;
+    }
+    #nom{
+        font-size: 40px;
+    }
+}
+@media screen and (min-width: 491px) and (max-width: 570px){
+    body{
+        background-color: rgba(87, 13, 13, 0.329);
+       }
+        header{
+            background-color: rgba(255, 0, 0, 0.329);
+                width: 625px;
+        }
+        @font-face {
+            font-family: arte;
+            src: url(../fonts/Blantick\ Script.ttf);
+        }
+        #h1{
+           font-size: 70px;
+            font-family:arte;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #head{
+           display: flex;
+           justify-content: center;
+           width: auto;
+        }
+        #links{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 30px;
+            margin-top:0px;
+         }
+        #section{
+            background-color: rgba(177, 167, 155, 0.76);
+            height: auto;
+            width: 625px;
+            margin-top: 0px;
+        }
+        #h2{
+            font-size: 50px;
+            font-family:arte;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #art{
+                display: flex;
+                justify-content: center;
+                background-color: rgba(87, 13, 13, 0.329);
+                width: 625px;
+        }
+        #contenedor{
+            background-color: rgb(211, 159, 111);
+            display: flex;
+            width: 625px;
+            flex-flow:wrap;
+            align-content: center;
+            justify-items: center;
+        
+        }
+        .caja{
+            width: 50%;
+            flex-flow:wrap;
+            display: flex;
+            padding-top: 40px;
+            display: flex;
+            justify-content: center;
+        
+        }
+        #img{
+            width: 60%;
+            height: 150px;
+        }
+        #nom{
+            font-size: 40px;
+        }
+}
+@media screen and (min-width: 571px) and (max-width: 890px) {
+    body{
+        background-color: rgba(87, 13, 13, 0.329);
+       }
+        header{
+            background-color: rgba(255, 0, 0, 0.329);
+                width: 950px;
+        }
+        @font-face {
+            font-family: arte;
+            src: url(../fonts/Blantick\ Script.ttf);
+        }
+        #h1{
+           font-size: 70px;
+            font-family:arte;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #head{
+           display: flex;
+           justify-content: center;
+           width: auto;
+        }
+        #links{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 30px;
+            margin-top:0px;
+         }
+        #section{
+            background-color: rgba(177, 167, 155, 0.76);
+            height: auto;
+            width: 950px;
+            margin-top: 0px;
+        }
+        #h2{
+            font-size: 50px;
+            font-family:arte;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #art{
+                display: flex;
+                justify-content: center;
+                background-color: rgba(87, 13, 13, 0.329);
+                width: 950px;
+        }
+        #contenedor{
+            background-color: rgb(211, 159, 111);
+            display: flex;
+            width: 950px;
+            flex-flow:wrap;
+            align-content: center;
+            justify-items: center;
+        
+        }
+        .caja{
+            width: 45%;
+            flex-flow:wrap;
+            display: flex;
+            padding-top: 40px;
+            display: flex;
+            justify-content: center;
+        
+        }
+        #img{
+            width: 60%;
+            height: 150px;
+        }
+        #nom{
+            font-size: 40px;
+        }
+}

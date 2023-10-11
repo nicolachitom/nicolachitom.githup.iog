@@ -1,0 +1,214 @@
+
+header{
+    background-color: rgba(87, 13, 13, 0.329);
+        height: 110px;
+}
+body{
+    background-color: rgba(250, 235, 215, 0.719);
+}
+h1{
+   font-size: 1000px;
+    font-family:arte;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size: 90px;
+     font-family:arte;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+#head{
+   display: flex;
+   justify-content: center;
+   width: auto;
+}
+#section{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: rgb(211, 159, 111);
+    padding-top: 20px;
+}
+#section2{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: rgba(109, 190, 126, 0.329);
+    padding-top: 20px;
+}
+#p1{
+    font-size: 35px;
+}
+#img{
+    height: 500px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+#im{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (min-width: 280px) and (max-width: 490px){
+    
+header{
+    background-color: rgba(197, 114, 114, 0.329);
+        height: 110px;
+}
+#h1{
+   font-size: 50px;
+    font-family:arte;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h2{
+    font-size: 100px;
+     font-family:arte;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+#head{
+   display: flex;
+   justify-content: center;
+   width: auto;
+}
+#section{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: rgb(211, 159, 111);
+    padding-top: 20px;
+}
+#section2{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    background-color: rgba(109, 190, 126, 0.329);
+    padding-top: 20px;
+}
+#p1{
+    font-size: 35px;
+}
+#img{
+    height: 400px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+#im{
+    display: flex;
+    justify-content: center;
+}
+}@media screen and (min-width: 490px) and (max-width: 570px){
+    header{
+        background-color: rgba(221, 133, 133, 0.616);
+            height: 110px;
+    }
+    h1{
+       font-size: 100px;
+        font-family:arte;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h2{
+        font-size: 100px;
+         font-family:arte;
+         margin-left: auto;
+         margin-right: auto;
+     }
+    
+    #head{
+       display: flex;
+       justify-content: center;
+       width: auto;
+    }
+    #section{
+        display: flex;
+        justify-content: center;
+        width: auto;
+        background-color: rgb(211, 159, 111);
+        padding-top: 20px;
+    }
+    #section2{
+        display: flex;
+        justify-content: center;
+        width: auto;
+        background-color: rgba(109, 190, 126, 0.329);
+        padding-top: 20px;
+    }
+    #p1{
+        font-size: 35px;
+    }
+    #img{
+        height: 400px;
+        width: 60%;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        border-radius: 30px;
+    }
+    #im{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (min-width: 571px) and (max-width: 890px){
+    header{
+        background-color: rgba(197, 114, 114, 0.329);
+            height: 110px;
+    }
+    h1{
+       font-size: 100px;
+        font-family:arte;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h2{
+        font-size: 100px;
+         font-family:arte;
+         margin-left: auto;
+         margin-right: auto;
+     }
+    
+    #head{
+       display: flex;
+       justify-content: center;
+       width: auto;
+    }
+    #section{
+        display: flex;
+        justify-content: center;
+        width: auto;
+        background-color: rgb(211, 159, 111);
+        padding-top: 20px;
+    }
+    #section2{
+        display: flex;
+        justify-content: center;
+        width: auto;
+        background-color: rgba(109, 190, 126, 0.329);
+        padding-top: 20px;
+    }
+    #p1{
+        font-size: 35px;
+    }
+    #img{
+        height: 400px;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+        border-radius: 30px;
+    }
+    #im{
+        display: flex;
+        justify-content: center;
+    }
+}
